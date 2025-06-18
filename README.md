@@ -1,5 +1,5 @@
 # 🏛️ AutoCAD Architecture Portfolio – Arab International University
-#  Abduleahman Jedeni
+#  Abdulrahman Jedeni
 
 This repository contains a collection of my AutoCAD projects developed during my architectural studies at **Arab International University** as part of Executive Design and Architectural Design courses. Projects include commercial, service, and sports-oriented multi-use developments with full executive plans, sections, facades, and detailing.
 
